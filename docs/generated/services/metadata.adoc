@@ -2,6 +2,8 @@
 :template_autoscaling:
 :template_aws_autoscaling_autoscalinggroup:
 :template_aws_cloudformation_stack:
+:template_aws_cloudformation_waitcondition:
+:template_aws_cloudformation_waitconditionhandle:
 :template_aws_ec2_launchtemplate:
 :template_aws_ec2_securitygroup:
 :template_aws_efs_filesystem:
